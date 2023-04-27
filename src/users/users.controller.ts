@@ -33,6 +33,6 @@ export class UsersController {
   }
 
   someAdd() {
-    return {'message': 'message first'};
+    return {'message': 'message first update'};
   }
 }
